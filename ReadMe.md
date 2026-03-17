@@ -2,6 +2,8 @@
 
 ALSO (Active Learning for Synthesis Optimization) is a Python-based active learning framework specifically designed for the directed synthesis of zeolite materials. It enables rapid identification of optimal synthesis conditions with minimal experimental trials by efficiently exploring multi-dimensional chemical reaction spaces, significantly reducing the cost of exploring complex chemical spaces.
 
+<img width="1344" height="944" alt="图片 1" src="https://github.com/user-attachments/assets/607839d8-c46b-4419-8340-052361c55ae4" />
+
 ## Core Features
 - **Chemical Space Management**: Supports multi-format data reading (Excel/CSV), experimental parameter range definition, data normalization, and full-lifecycle data management.
 - **Multi-Model Fusion Prediction**: Integrates SVM (phase classification), XGBoost (feature regression), and a custom gradient algorithm (trend capture) to achieve accurate target feature scoring.
